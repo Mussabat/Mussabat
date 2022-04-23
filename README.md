@@ -1,2 +1,2 @@
-### Hi there 👋 I am Nafisa Tabassum
+### Hey 👋 I am Nafisa Tabassum
 
