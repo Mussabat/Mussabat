@@ -14,7 +14,7 @@
        width="40" />
 </a>
 
-<a href="https://nafisatabassumportfolio.vercel.app/" target="blank" style="margin-left: 25px; text-decoration: none;">
+<a href="https://nafisatabassumportfolio.vercel.app/" target="blank" style="margin-left: 45px; text-decoration: none;">
   <img align="center"
        src="https://cdn-icons-png.flaticon.com/512/841/841364.png"
        alt="portfolio"
