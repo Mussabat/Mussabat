@@ -11,6 +11,11 @@
 </a>
 
 <a href="https://nafisatabassumportfolio.vercel.app/" target="blank">
-  <img align="center" src="https://img.icons8.com/ios-filled/50/000000/domain.png" alt="portfolio" height="30" width="40" />
+  <img align="center"
+       src="https://cdn-icons-png.flaticon.com/512/841/841364.png"
+       alt="portfolio"
+       height="30"
+       width="30"
+       style="margin-left: 10px;" />
 </a>
 </p>
