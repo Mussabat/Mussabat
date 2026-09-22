@@ -1,9 +1,12 @@
-<h1> Hey 👋 I am Nafisa Tabassum😄 </h1>
+<h1>Hey 👋 I am Nafisa Tabassum😄</h1>
+
 ![Profile views](https://komarev.com/ghpvc/?username=Mussabat&color=blue)
+
 <hr>
-<pre style = "background-color : #495C83">
-                                   <image src = "https://image.shutterstock.com/image-vector/happy-girl-laptop-online-coding-260nw-1982055719.jpg">
-</pre>
+
+<div style="background-color : #495C83">
+  <img src="https://image.shutterstock.com/image-vector/happy-girl-laptop-online-coding-260nw-1982055719.jpg" alt="coding illustration" />
+</div>
 
 <h2 align="left">Connect with Me:</h2>
 <p align="left">
